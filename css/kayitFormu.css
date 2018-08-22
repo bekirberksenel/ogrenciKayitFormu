@@ -1,0 +1,42 @@
+				input[type=text] {
+    					background-color: #FFFF00; 
+    					color: black;
+				}
+			        
+   				input[type=password] {
+    					background-color: #FFFF00; 
+    					color: black;
+				}				
+
+				input:focus {
+					background-color: #6495ED;
+				}
+				
+				textarea{
+					background-color: #FFFF00; 
+				}
+				
+				textarea:focus{
+					background-color: #6495ED;
+					color:black
+				}
+
+				div.text {
+  					margin: 0;
+  					padding: 0;
+  					padding-bottom: 1.25em;
+				}
+
+				div.text label {
+  					margin: 0;
+  					padding: 0;
+  					display: block;
+  					font-size: 100%;
+  					font-family: Arial;
+  					padding-top: .1em;
+  					padding-right: .25em;
+  					width: 6em;
+  					text-align: right;
+  					float: left;
+  					text-decoration: underline;
+				}
